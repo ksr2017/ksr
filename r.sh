@@ -1,4 +1,5 @@
 yum -y install git
+yum -y install wget
 
 git clone -b manyuser https://github.com/breakwa11/shadowsocks.git
 cd shadowsocks/shadowsocks
